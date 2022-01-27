@@ -1,0 +1,14 @@
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\Setup.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\EdgeDriverManager.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\CommonMethods.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\chatbot\stepDefinitions\ChatbotStepDefinition.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\AbstractPage.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\chatbot\models\ChatbotModel.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\DriverManagerFactory.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\chatbot\pages\ChatbotPage.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\FirefoxDriverManager.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\ChromeDriverManager.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\DriverType.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\DriverManager.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\TestRunner.java
+C:\Users\houss\eclipse-workspace\karl-QA_Automation\src\test\java\com\e2eTests\karl\utils\InternetExplorerDriver.java
